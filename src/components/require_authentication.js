@@ -9,3 +9,4 @@ export default function(ComposedComponent) {
 
   return Authentication;
 }
+// a higher order component
